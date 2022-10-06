@@ -1,2 +1,2 @@
 # Chatapp_practice
-這是一個簡易的通訊軟體
+這是一個簡易的一對一通訊軟體，伺服器是使用到firebase
